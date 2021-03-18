@@ -1,0 +1,134 @@
+body
+{
+	background: rgb(159, 160, 132);
+	
+	text-align: center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+
+text-align: left;
+}
+#name1{
+	display: inline-block;
+}
+#name2{
+	display: inline-block;
+}
+#Send_the_word{
+	color: darkblue;
+	background-color: darkgoldenrod;
+	font-style: oblique;
+}
+#head{
+	color: rgb(104, 30, 30);
+	font-family: 'Lobster', cursive;
+}
+#logo{
+width: 230px;
+height: 200px;
+}
+#head1{
+	color: bisque;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+#head3{
+	color: bisque;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+#give_b{
+	height: 50px;
+	width: 179px;
+	font-size: 25px;
+}
+#take_b{
+	height: 50px;
+	width: 179px;
+	font-size: 25px;
+}
+#new_b{
+	height: 50px;
+	width: 179px;
+	font-size: 25px;
+}
+#old_b{
+	height: 50px;
+	width: 179px;
+	font-size: 25px;
+}
+#note{
+	color: blanchedalmond;
+	font-size: 50px;
+}
+#d_old{
+	height: 40px;
+}
+
+#d_or_t{
+	height: 150px;
+}
+#yay{
+	height: 300px;
+}
+#Delivry{
+	height: 150px;
+}
+#username{
+	font-size:20px;
+}
+#password{
+	font-size:20px;
+}
+#give_takeB{
+	height: 300px;
+}
+#old_newDonate{
+	height: 300px;
+}
+#n_or_oNeed{
+	height: 300px;
+}
+#book_info{
+	font-size: 25px;
+}
+#Donate{
+	border-radius: 10px;
+	
+}
+#book_info{
+font-size: 20px;
+}
+#book_info2{
+font-size: 20px;
+}
+#book_info3{
+font-size: 20px;
+}
+#addrreess{
+	color: aliceblue;
+}
